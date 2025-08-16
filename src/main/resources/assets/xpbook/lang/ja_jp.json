@@ -1,7 +1,10 @@
 {
-    "item.xpbook.xp_book": "旧仕様本:右クリックで変換します。",
-    "item.xpbook.xp_tome": "経験値の本",
-    "xpbook.tooltip.store.max": "スニーク+アイテム使用で可能な限り経験値を保管します。",
-    "xpbook.tooltip.retrieve.max": "アイテム使用で全ての経験値を取り出します。",
+    "item.xpbook.xp_book": "旧仕様:右クリックで変換",
+    "item.xpbook.xp_tome": "経験の本",
+    "xpbook.tooltip.store.max": "スニーク+アイテム使用で可能な限り経験値を保管",
+    "xpbook.tooltip.store.previous": "スニーク＋アイテム使用で最大1レベル分の経験値を保存",
+    "xpbook.tooltip.retrieve.max": "アイテム使用で全ての経験値を取り出す",
+    "xpbook.tooltip.retrieve.next": "アイテム使用で最大1レベル分の経験値を取り出す",
+    "xpbook.tooltip.retrieve.orb": "経験値オーブを生成",
     "xpbook.tooltip.stored_xp": "%1$s/%2$sの経験値を保管中"
 }
